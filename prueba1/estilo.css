@@ -1,3 +1,3 @@
-*{ /*selector universal*/
+h1{ /*selector de titulo*/
     color: blueviolet;  /*color que queremos que tenga la pagina*/
 }
