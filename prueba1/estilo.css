@@ -9,3 +9,7 @@ h1{ /*selector de titulo*/
 p{
     color: darkorange;
 }
+
+#idboton{ /*selector para un id*/
+    color: blue;
+}
