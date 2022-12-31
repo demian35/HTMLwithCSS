@@ -5,3 +5,7 @@ h1{ /*selector de titulo*/
 .titulo2{ /*selector para clase*/
     color: chartreuse;
 }
+
+p{
+    color: darkorange;
+}
