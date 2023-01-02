@@ -8,9 +8,14 @@ h2{
 
 
 .titulo2{
-    color: greenyellow;
+    color: greenyellow !important;
 }
 
 #botonprueba{
     color: yellow;
 }
+
+#textoprueba{
+    color: darkmagenta;
+}
+
