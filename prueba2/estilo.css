@@ -19,3 +19,10 @@ h2{
     color: darkmagenta;
 }
 
+.register-form__input{
+    color: magenta;
+}
+
+.register-form__input--active{
+    color: gold;
+}
