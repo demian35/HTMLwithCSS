@@ -9,5 +9,11 @@ h1{
 }
 
 .Textodeprueba_titulo{
-    font-size: 5em;
+    padding: 30px;
+    margin: 30px;
+    color: red;
+    font-size: 3em;
+    background-color: black;
+    width: 50vw;
 }
+
