@@ -14,7 +14,7 @@ h2{
     margin: 20px;
     border-radius: 20px;
     box-shadow: 2px  4px  15px 0 #000; /* pixeles que agarramos del eje x , eje y , pixeles de la sombra , grosor de sombra , color */
-    }
+}
 
 p{
     background-color: purple;
