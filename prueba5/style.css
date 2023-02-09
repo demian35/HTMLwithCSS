@@ -13,6 +13,7 @@ padding-left: 30px;
 padding-right: 30px;
 margin: 20px;
 border-radius: 20px;
+box-shadow: 2px  4px  15px 0 #000; /* pixeles que agarramos del eje x , eje y , pixeles de la sombra , grosor de sombra , color */
 }
 
 p{
@@ -24,6 +25,7 @@ p{
     padding-right: 30px; 
     border-radius: 40px;
     border: 5px solid darkcyan;
+    box-shadow: 30px  20px  15px 0 black;
 }
 
 
