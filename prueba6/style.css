@@ -15,6 +15,7 @@ div{
     background-color: blue;
     position: relative;
     z-index: 50;
+    margin-bottom: 20px;
 
 }
 
@@ -40,6 +41,7 @@ div{
 
 .caja_4{
     background-color: yellow;
+    margin-top: 20px;
 
 }
 
