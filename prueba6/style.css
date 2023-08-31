@@ -13,6 +13,8 @@ div{
 
 .caja_3{
     background-color: blue;
+    position: relative;
+    z-index: 50;
 
 }
 
@@ -21,7 +23,7 @@ div{
     position: relative;
     top: 100px;
     left: 100px;
-    right: 100px;
+    z-index: 110;
     
 
 }
@@ -29,6 +31,9 @@ div{
 .caja_1{
     background-color: green;
     border: 10px solid fuchsia;
+    position: relative;
+    left: 400px;
+    z-index: 150;
 
 }
 
