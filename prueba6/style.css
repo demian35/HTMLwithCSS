@@ -36,6 +36,7 @@ div{
     left: 400px;
     z-index: 150;
     padding: 30px;
+    border-radius: 50px;
 
 }
 
@@ -53,4 +54,5 @@ div{
     width: 200px;
     box-sizing: border-box;
     text-align: center;
+    border-radius: 20px;
 }
