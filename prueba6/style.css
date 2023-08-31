@@ -34,6 +34,7 @@ div{
     position: relative;
     left: 400px;
     z-index: 150;
+    padding: 30px;
 
 }
 
@@ -43,5 +44,11 @@ div{
 }
 
 .caja_1 h2{
-    display: inline;
+    display: inline-block;
+    background-color: cyan;
+    padding: 10px;
+    height: 100px;
+    width: 200px;
+    box-sizing: border-box;
+    text-align: center;
 }
