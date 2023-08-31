@@ -41,3 +41,7 @@ div{
     background-color: yellow;
 
 }
+
+.caja_1 h2{
+    display: inline;
+}
