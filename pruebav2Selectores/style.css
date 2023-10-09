@@ -1,5 +1,8 @@
 body{
-    background-color: blue;
+    background-image: url('columbia.png');
+    height: 1080px;
+    width: 1920px;
+    background-size: cover;
 }
 
 h1{
