@@ -36,9 +36,16 @@ div .textodiv{
 /*ejempo de comentario*/
 
 .titulocolor{
-   border: 10px purple groove;/*Color rosa hexadecimal, ##rrggbb*/
+  /*  border: 10px purple groove;/*Color rosa hexadecimal, ##rrggbb*/ 
+  border-style: solid;/*tipo de contorno del elemento*/
+  border-color: purple;/*color del contorno del elemento*/
+  border-radius: 10px;/*cuantos pixeles queremos que tenga de radio el borde*/
+  border-width: 10px;/*ancho del borde*/
 }
 
 .GrupoTextos{
-    border: gold 5px dashed;
+    border-style: dashed;
+    border-color: gold;
+    border-radius: 5px;
+    border-width: 10px;
 }
