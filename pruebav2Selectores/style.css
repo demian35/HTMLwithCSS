@@ -1,8 +1,8 @@
 body{
     background-image: url('columbia.png');
-    height: 1080px;
-    width: 1920px;
-    background-size: cover;
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 h1{
@@ -51,4 +51,5 @@ div .textodiv{
     border-color: gold;
     border-radius: 5px;
     border-width: 10px;
+    background: rgba(0,0,0, 0.5);
 }
