@@ -25,6 +25,7 @@ p.texto2{
 .texto3{
     color: purple;
     font-size: 20px;
+    border: red 5px solid;
 }
 
 div .textodiv{
@@ -35,5 +36,9 @@ div .textodiv{
 /*ejempo de comentario*/
 
 .titulocolor{
-    color:#ff00ff;/*Color rosa hexadecimal, ##rrggbb*/
+   border: 10px purple groove;/*Color rosa hexadecimal, ##rrggbb*/
+}
+
+.GrupoTextos{
+    border: gold 5px dashed;
 }
